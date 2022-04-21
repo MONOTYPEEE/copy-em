@@ -1,0 +1,58 @@
+body{
+    margin: 0 auto;
+    min-width: 1180px;
+}
+#whale-ad{
+    width: 100%;
+    height: 50px;
+    margin: 0px;
+    padding: 0px;
+    background: linear-gradient(to right, #6856f8,#4e3de7);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    word-spacing: 2px;
+}
+#whale-ad-dwn{
+    border-radius: 100px;
+    background-color: #112f85;
+    color: rgb(255, 255, 255);
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+    font-size: small;
+    font-weight: bold;
+    vertical-align:middle;
+}
+#whale-ad-minigo{
+    font-size: 80%;
+    margin: 6px 2px 0px 0px;
+    width: 16px;
+}
+#whale-ad-widego{
+    height: 15px;
+}
+#header-logo{
+    width: 222px;
+}
+#whale-ad-wideim{
+    height: 50px;
+    padding-left: 90px;
+    padding-right: 30px;
+}
+#whale-ad-hl{
+    color: aquamarine;
+}
+#whale-ad-tx{
+    color: white;
+    font-size: 17px;
+    line-height: 49px;
+    padding: 0px 20px 0px 20px;
+}
+#whale-ad-close{
+    font-size: small;
+    color: lightgray;
+    height: 15px;
+    line-height: 15px;
+}
